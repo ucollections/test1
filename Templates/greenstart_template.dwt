@@ -1,0 +1,46 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<link href="../css/greenstart_styles.css" rel="stylesheet" type="text/css">
+<link href="../css/print_styles.css" rel="stylesheet" type="text/css" media="print">
+<!--[if lt IE 9]>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+
+<div class="container">
+  <header>
+    <a href="#"><img src="../images/butterfly-ovr.png" alt="Insert Logo Here" width="170" height="158" class="logo" id="Insert_logo" style="display: block;" /></a>
+  </header>
+  <nav>
+    <p><a href="../index.html">Home</a> | <a href="../events.html">Events</a> | <a href="../tips.html">Tips</a> | <a href="../contact.html">Contact</a></p>
+  </nav>
+  <div class="sidebar1">
+    <aside><img src="../images/ad_01.jpg" width="180" height="400" alt="ad"></aside>
+  <!-- end .sidebar1 --></div>
+  <!-- TemplateBeginEditable name="main_content" -->
+  <article class="content">
+    <h1 class="green">Insert main heading here</h1>
+    <section>
+      <h2 class="green">Insert subheading here</h2>
+      <p>Insert content here</p>
+    </section>
+    <!-- end .content -->
+  </article>
+  <!-- TemplateEndEditable -->
+  <footer>
+    <p>&copy; 2014 Meridien GreenStart. All rights reserved.</p>
+    <address>
+    </address>
+  </footer>
+<!-- end .container --></div>
+</body>
+</html>
